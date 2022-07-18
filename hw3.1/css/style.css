@@ -1,0 +1,139 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.conteiner {
+    width: 1146px;
+    margin: auto;
+}
+
+header {
+    background-image: url(../img/skai.png);
+}
+
+h1 {
+    padding-top: 120px;
+    margin-bottom: 27px;
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 63px;
+    color: #003395;
+}
+
+header p {
+    padding-bottom: 138px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 18px;
+}
+
+nav a {
+    text-decoration: none;
+    margin-right: 62px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 207.9%;
+    letter-spacing: 2px;
+    color: #FFF;
+}
+
+nav {
+    background-color: #003395;
+}
+
+nav li {
+    padding-bottom: 25px;
+    padding-top: 26px;
+    display: inline-block;
+}
+
+.colomleft {
+    padding-top: 55px;
+    width: 754px;
+    display: inline-block;
+    margin-bottom: 65px;
+}
+
+h2 {
+    padding-top: 13px;
+    padding-bottom: 15px;
+    border-top: 2px solid #003395;
+    border-bottom: 2px solid #003395;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 32px;
+}
+
+.colomleft p {
+    padding-top: 16px;
+    padding-bottom: 34px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.colomright {
+    display: inline-block;
+    float: right;
+    vertical-align: top;
+    width: 362px;
+    margin-top: 55px;
+}
+
+.text1 {
+    border: 2px solid #33008D;
+    margin-bottom: 55px;
+}
+
+.text2 {
+    border: 2px solid #33008D;
+}
+
+.colomright h3 {
+    background: #24B0FF;
+    padding: 14px 17px 14px 17px;
+    color: #FFF;
+    margin: 19px 14px 19px 19px;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 32px;
+}
+
+.colomright p {
+    margin: 0 26px 19px 19px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.2px;
+    line-height: 163.35%;
+    color: #30233D;
+}
+
+.colomright ul {
+    padding-left: 19px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.2px;
+    line-height: 163.35%;
+    text-decoration-line: underline;
+    color: #30233D;
+    list-style-type: none;
+    padding-bottom: 23px;
+}
+
+footer {
+    background: linear-gradient(180deg, #003395 0%, #00205F 100%);
+    height: 148px;
+}
+
+footer p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11.7px;
+    line-height: 163.35%;
+    text-align: right;
+    color: #FCFCFC;
+    height: 20px;
+    padding-top: 45px;
+}

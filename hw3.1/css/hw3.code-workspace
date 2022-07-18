@@ -1,0 +1,22 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\hw3"
+		},
+		{
+			"path": "..\\..\\hw2"
+		},
+		{
+			"path": "..\\..\\hw4"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\lesson5"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "hw3"
+    }
+}
